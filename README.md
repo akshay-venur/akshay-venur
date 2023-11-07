@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Akshay Kumar and I'm a Data Engineer from Bangalore, India</h3>
+<h5 align="left">My name is </h5><b>Akshay Kumar</b><h5> and I'm a </h5><b>Data Engineer</b><h5>from </h5> <b>Bangalore, India</b>
 
 ###
 
