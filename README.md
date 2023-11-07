@@ -2,11 +2,11 @@
 
 ###
 
-<h4 align="left">My name is <h2>Akshay Kumar<h2> and I'm a <h2>Data Engineer</h2> from <h2>Bangalore, India</h2></h3>
+<h3 align="left">My name is Akshay Kumar and I'm a Data Engineer from Bangalore, India</h3>
 
 ###
 
-<h4 align="left">Accomplished Data Engineer with a proven track record of designing and implementing resilient data engineering solutions. Leveraging a versatile toolkit encompassing SQL, Python, PySpark, Hadoop, Hive, Snowflake, Azure DataFactory, Azure Databricks, Azure Synapse Analytics, and PowerBI, I specialize in translating data into actionable business insights, with a strong emphasis on fostering data-driven decision-making.<br><br>Programming: Python, SQL, Numpy, Pandas, Matplotlib, Seaborn<br>Data Storage and Databases: MySQL, Microsoft SQL Server<br>Data Warehouse: Snowflake, Hive<br>Big Data Tools: Sqoop, Hbase, Pyspark, Hadoop, MapReduce<br>Cloud Services: Azure Data Factory, Azure Synapse Analytics, Azure Databricks, Azure SQL DB, Data lake storage, Azure Cosmos DB, Azure Key Vault, Azure Active Directory, Azure Logic Apps, Azure Functions<br>Data Visualizations: PowerBI, AdvancedExcel<br>Version Control: Git, Github</h4>
+<h4 align="left">Programming: Python, SQL, Numpy, Pandas, Matplotlib, Seaborn<br>Data Storage and Databases: MySQL, Microsoft SQL Server<br>Data Warehouse: Snowflake, Hive<br>Big Data Tools: Sqoop, Hbase, Pyspark, Hadoop, MapReduce<br>Cloud Services: Azure Data Factory, Azure Synapse Analytics, Azure Databricks, Azure SQL DB, Data lake storage, Azure Cosmos DB, Azure Key Vault, Azure Active Directory, Azure Logic Apps, Azure Functions<br>Data Visualizations: PowerBI, AdvancedExcel<br>Version Control: Git, Github</h4>
 
 ###
 
@@ -64,12 +64,6 @@
   <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/yarn/2C8EBB" height="40" alt="yarn logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
