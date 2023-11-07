@@ -66,6 +66,10 @@
   <img src="https://cdn.simpleicons.org/yarn/2C8EBB" height="40" alt="yarn logo"  />
 </div>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-venur&show_icons=true&locale=en&layout=compact" alt="akshay-venur" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay-venur&show_icons=true&locale=en" alt="akshay-venur" /></p>
+
 ###
 
 <div align="left">
