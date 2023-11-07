@@ -6,6 +6,12 @@
 
 ###
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay-venur&label=Profile%20views&color=0e75b6&style=flat" alt="akshay-venur" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay-venur" alt="akshay-venur" /></a> </p>
+
+###
+
 📫 How to reach me **akshay16venur@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -77,16 +83,9 @@
   <img src="https://cdn.simpleicons.org/yarn/2C8EBB" height="40" alt="yarn logo"  />
 </div>
 
+### 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-venur&show_icons=true&locale=en&layout=compact" alt="akshay-venur" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay-venur&show_icons=true&locale=en" alt="akshay-venur" /></p>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/akshay-kumar-51b783149/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
