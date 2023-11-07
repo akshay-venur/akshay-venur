@@ -22,12 +22,12 @@
 </p>
 
 ###
-
-<h4 align="left">Programming: Python, SQL, Numpy, Pandas, Matplotlib, Seaborn<br>Data Storage and Databases: MySQL, Microsoft SQL Server<br>Data Warehouse: Snowflake, Hive<br>Big Data Tools: Sqoop, Hbase, Pyspark, Hadoop, MapReduce<br>Cloud Services: Azure Data Factory, Azure Synapse Analytics, Azure Databricks, Azure SQL DB, Data lake storage, Azure Cosmos DB, Azure Key Vault, Azure Active Directory, Azure Logic Apps, Azure Functions<br>Data Visualizations: PowerBI, AdvancedExcel<br>Version Control: Git, Github</h4>
+<font color="black">
+<h4 align="left">Programming: Python, SQL, Numpy, Pandas, Matplotlib, Seaborn<br>Data Storage and Databases: MySQL, Microsoft SQL Server<br>Data Warehouse: Snowflake, Hive<br>Big Data Tools: Sqoop, Hbase, Pyspark, Hadoop, MapReduce<br>Cloud Services: Azure Data Factory, Azure Synapse Analytics, Azure Databricks, Azure SQL DB, Data lake storage, Azure Cosmos DB, Azure Key Vault, Azure Active Directory, Azure Logic Apps, Azure Functions<br>Data Visualizations: PowerBI, AdvancedExcel<br>Version Control: Git, Github</h4></font>
 
 ###
-
-<h2 align="left">I code with</h2>
+<font color="black">
+<h2 align="left">I code with</h2></font>
 
 ###
 
