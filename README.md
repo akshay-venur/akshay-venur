@@ -12,7 +12,7 @@
 
 ###
 
-📫 How to reach me **akshay16venur@gmail.com**
+<font color="black">📫 How to reach me akshay16venur@gmail.com</font>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -74,19 +74,4 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/pycharm/000000" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/yarn/2C8EBB" height="40" alt="yarn logo"  />
-</div>
-
-### 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-venur&show_icons=true&locale=en&layout=compact" alt="akshay-venur" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay-venur&show_icons=true&locale=en" alt="akshay-venur" /></p>
-
-###
-
+  <img src="https://cdn.simpleicons.org/pycharm/000000" height="40" alt
